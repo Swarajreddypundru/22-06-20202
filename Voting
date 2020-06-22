@@ -1,0 +1,3 @@
+age=int(input("enter the age"))
+
+print("you are eligible for voting"if age >18 else"yor are not eligible to voting")
